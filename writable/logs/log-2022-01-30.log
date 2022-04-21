@@ -1,0 +1,212 @@
+CRITICAL - 2022-01-30 14:28:35 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:28:45 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:28:46 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:28:53 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:33:34 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:36:18 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:38:40 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:41:07 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:41:16 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:41:25 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:43:32 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:49:29 --> Too few arguments to function App\Controllers\Category::index(), 0 passed in C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 14:53:59 --> Undefined variable: blogcategory
+#0 C:\xampp\htdocs\fcm4\app\Views\sidebar-blog.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('sidebar-blog', NULL, true)
+#4 C:\xampp\htdocs\fcm4\app\Views\category-details.php(62): CodeIgniter\View\View->include('sidebar-blog')
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('category-detail...', Array, true)
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(30): view('category-detail...', Array)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2022-01-30 15:13:58 --> Too few arguments to function App\Models\BlogModel::getCategory_limit(), 0 passed in C:\xampp\htdocs\fcm4\app\Controllers\Category.php on line 29 and exactly 1 expected
+#0 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(29): App\Models\BlogModel->getCategory_limit()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-30 15:16:58 --> Undefined variable: blog
+#0 C:\xampp\htdocs\fcm4\app\Views\category-details.php(71): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 71, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('category-detail...', Array, true)
+#4 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(38): view('category-detail...', Array)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-30 15:19:20 --> Undefined index: fcm.blogcreated_at
+#0 C:\xampp\htdocs\fcm4\app\Views\sidebar-blog.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('sidebar-blog', NULL, true)
+#4 C:\xampp\htdocs\fcm4\app\Views\category-details.php(78): CodeIgniter\View\View->include('sidebar-blog')
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('category-detail...', Array, true)
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(38): view('category-detail...', Array)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2022-01-30 15:19:29 --> Undefined index: fcm_blog.created_at
+#0 C:\xampp\htdocs\fcm4\app\Views\sidebar-blog.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('sidebar-blog', NULL, true)
+#4 C:\xampp\htdocs\fcm4\app\Views\category-details.php(78): CodeIgniter\View\View->include('sidebar-blog')
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('category-detail...', Array, true)
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(38): view('category-detail...', Array)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2022-01-30 15:30:20 --> Undefined variable: blog
+#0 C:\xampp\htdocs\fcm4\app\Views\category-details.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 81, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('category-detail...', Array, true)
+#4 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(38): view('category-detail...', Array)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-30 15:30:43 --> Undefined index: slug_category
+#0 C:\xampp\htdocs\fcm4\app\Views\category-details.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 81, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('category-detail...', Array, true)
+#4 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(38): view('category-detail...', Array)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-30 15:31:23 --> Undefined index: name_category
+#0 C:\xampp\htdocs\fcm4\app\Views\category-details.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 81, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('category-detail...', Array, true)
+#4 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(38): view('category-detail...', Array)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-30 15:37:06 --> Undefined variable: blog
+#0 C:\xampp\htdocs\fcm4\app\Views\category-details.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 85, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('category-detail...', Array, true)
+#4 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(38): view('category-detail...', Array)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-30 15:37:14 --> Undefined variable: blog
+#0 C:\xampp\htdocs\fcm4\app\Views\category-details.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 85, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('category-detail...', Array, true)
+#4 C:\xampp\htdocs\fcm4\app\Controllers\Category.php(38): view('category-detail...', Array)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Category->index('testerrrrrrrr')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}

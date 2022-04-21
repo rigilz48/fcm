@@ -1,0 +1,8 @@
+__ci_last_regenerate|i:1643458644;_ci_previous_url|s:35:"http://localhost:8080/admin/contact";logged_in|s:1:"1";success|s:348:"<script> $(function() { $('.toastsDefaultSuccess').click(function() {
+            $(document).Toasts('create', {
+              class: 'bg-success',
+              title: 'Toast Title',
+              subtitle: 'Subtitle',
+              body: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr.'
+            })
+          }); }); </script>";__ci_vars|a:1:{s:7:"success";s:3:"old";}

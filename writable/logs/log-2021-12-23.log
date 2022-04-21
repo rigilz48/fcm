@@ -1,0 +1,4 @@
+ERROR - 2021-12-23 15:41:24 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+ERROR - 2021-12-23 15:42:00 --> Error connecting to the database: Unknown database 'db_fcm'
+ERROR - 2021-12-23 15:42:29 --> Error connecting to the database: Class 'SQLite3' not found

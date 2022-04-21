@@ -1,0 +1,1304 @@
+CRITICAL - 2021-12-25 00:17:57 --> Invalid file: Myth\Auth\Views\forgot.php
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Myth\\Auth\\Views...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('Myth\\Auth\\Views...', Array, true)
+#2 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Controllers\AuthController.php(429): view('Myth\\Auth\\Views...', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Controllers\AuthController.php(225): Myth\Auth\Controllers\AuthController->_render('Myth\\Auth\\Views...', Array)
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): Myth\Auth\Controllers\AuthController->forgotPassword()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(Myth\Auth\Controllers\AuthController))
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 00:28:48 --> Invalid file: Myth\Auth\Views\forgot.php
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Myth\\Auth\\Views...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('Myth\\Auth\\Views...', Array, true)
+#2 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Controllers\AuthController.php(429): view('Myth\\Auth\\Views...', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Controllers\AuthController.php(225): Myth\Auth\Controllers\AuthController->_render('Myth\\Auth\\Views...', Array)
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): Myth\Auth\Controllers\AuthController->forgotPassword()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(Myth\Auth\Controllers\AuthController))
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 00:29:14 --> Use of undefined constant APP_NAMESPACE_FIRST - assumed 'APP_NAMESPACE_FIRST' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Views\forgot.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 7, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('Myth\\Auth\\Views...', Array, true)
+#4 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Controllers\AuthController.php(429): view('Myth\\Auth\\Views...', Array)
+#5 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Controllers\AuthController.php(225): Myth\Auth\Controllers\AuthController->_render('Myth\\Auth\\Views...', Array)
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): Myth\Auth\Controllers\AuthController->forgotPassword()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(Myth\Auth\Controllers\AuthController))
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2021-12-25 00:29:17 --> Use of undefined constant APP_NAMESPACE_FIRST - assumed 'APP_NAMESPACE_FIRST' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Views\forgot.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 7, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('Myth\\Auth\\Views...', Array, true)
+#4 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Controllers\AuthController.php(429): view('Myth\\Auth\\Views...', Array)
+#5 C:\xampp\htdocs\fcm4\vendor\myth\auth\src\Controllers\AuthController.php(225): Myth\Auth\Controllers\AuthController->_render('Myth\\Auth\\Views...', Array)
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): Myth\Auth\Controllers\AuthController->forgotPassword()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(Myth\Auth\Controllers\AuthController))
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2021-12-25 00:32:36 --> Anda tidak memiliki izin yang memadai untuk mengakses halaman itu.
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Filters\Filters.php(173): Myth\Auth\Filters\PermissionFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('admin/', 'before')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:32:53 --> Anda tidak memiliki izin yang memadai untuk mengakses halaman itu.
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Filters\Filters.php(173): Myth\Auth\Filters\PermissionFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('admin/', 'before')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:33:14 --> Anda tidak memiliki izin yang memadai untuk mengakses halaman itu.
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Filters\Filters.php(173): Myth\Auth\Filters\PermissionFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('admin/', 'before')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:34:10 --> Anda tidak memiliki izin yang memadai untuk mengakses halaman itu.
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Filters\Filters.php(173): Myth\Auth\Filters\PermissionFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('admin/', 'before')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:35:45 --> Anda tidak memiliki izin yang memadai untuk mengakses halaman itu.
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Filters\Filters.php(173): Myth\Auth\Filters\PermissionFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('admin/', 'before')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:35:46 --> Anda tidak memiliki izin yang memadai untuk mengakses halaman itu.
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Filters\Filters.php(173): Myth\Auth\Filters\PermissionFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('admin/', 'before')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:38:30 --> Anda tidak memiliki izin yang memadai untuk mengakses halaman itu.
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Filters\Filters.php(173): Myth\Auth\Filters\PermissionFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('admin/', 'before')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:38:48 --> Anda tidak memiliki izin yang memadai untuk mengakses halaman itu.
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Filters\Filters.php(173): Myth\Auth\Filters\PermissionFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('admin/', 'before')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 01:07:41 --> Array to string conversion
+#0 C:\xampp\htdocs\fcm4\app\Views\admin\templates\sidebar.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('admin/templates...', NULL, true)
+#4 C:\xampp\htdocs\fcm4\app\Views\admin\templates\index.php(24): CodeIgniter\View\View->include('admin/templates...')
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('admin/templates...', Array, true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/home', Array, true)
+#9 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Home.php(23): view('admin/home', Array)
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Home->index()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Home))
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2021-12-25 01:08:06 --> Array to string conversion
+#0 C:\xampp\htdocs\fcm4\app\Views\admin\templates\sidebar.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('admin/templates...', NULL, true)
+#4 C:\xampp\htdocs\fcm4\app\Views\admin\templates\index.php(24): CodeIgniter\View\View->include('admin/templates...')
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('admin/templates...', Array, true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/home', Array, true)
+#9 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Home.php(23): view('admin/home', Array)
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Home->index()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Home))
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2021-12-25 01:08:07 --> Array to string conversion
+#0 C:\xampp\htdocs\fcm4\app\Views\admin\templates\sidebar.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('admin/templates...', NULL, true)
+#4 C:\xampp\htdocs\fcm4\app\Views\admin\templates\index.php(24): CodeIgniter\View\View->include('admin/templates...')
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('admin/templates...', Array, true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/home', Array, true)
+#9 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Home.php(23): view('admin/home', Array)
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Home->index()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Home))
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2021-12-25 01:13:57 --> syntax error, unexpected ',', expecting ']'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('admin/templates...', NULL, true)
+#2 C:\xampp\htdocs\fcm4\app\Views\admin\templates\index.php(24): CodeIgniter\View\View->include('admin/templates...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('admin/templates...', Array, true)
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/home', Array, true)
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Home.php(23): view('admin/home', Array)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Home->index()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Home))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2021-12-25 01:15:15 --> Array to string conversion
+#0 C:\xampp\htdocs\fcm4\app\Views\admin\templates\sidebar.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('admin/templates...', NULL, true)
+#4 C:\xampp\htdocs\fcm4\app\Views\admin\templates\index.php(24): CodeIgniter\View\View->include('admin/templates...')
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('admin/templates...', Array, true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/home', Array, true)
+#9 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Home.php(23): view('admin/home', Array)
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Home->index()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Home))
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2021-12-25 01:15:55 --> Undefined offset: 2
+#0 C:\xampp\htdocs\fcm4\app\Views\admin\templates\sidebar.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(432): CodeIgniter\View\View->render('admin/templates...', NULL, true)
+#4 C:\xampp\htdocs\fcm4\app\Views\admin\templates\index.php(24): CodeIgniter\View\View->include('admin/templates...')
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('admin/templates...', Array, true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/home', Array, true)
+#9 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Home.php(23): view('admin/home', Array)
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Home->index()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Home))
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2021-12-25 02:05:21 --> Invalid file: templates/index.php
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/index...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('templates/index', Array, true)
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/blog/inde...', Array, true)
+#3 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(24): view('admin/blog/inde...', Array)
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->index()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:39:43 --> Undefined property: App\Controllers\admin\Blog::$db
+#0 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-25 14:39:50 --> Undefined property: App\Controllers\admin\Blog::$db
+#0 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-25 14:40:55 --> Undefined property: App\Controllers\admin\Blog::$db
+#0 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-25 14:40:59 --> Undefined property: App\Controllers\admin\Blog::$db
+#0 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-25 14:43:29 --> syntax error, unexpected 'c' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:44:43 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-25 14:44:44 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-25 14:46:01 --> syntax error, unexpected ''{$table}'' (T_CONSTANT_ENCAPSED_STRING)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:46:07 --> syntax error, unexpected '' AS '' (T_CONSTANT_ENCAPSED_STRING)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:46:07 --> syntax error, unexpected '' AS '' (T_CONSTANT_ENCAPSED_STRING)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:46:08 --> syntax error, unexpected '' AS '' (T_CONSTANT_ENCAPSED_STRING)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:52:24 --> Invalid body indentation level (expecting an indentation level of at least 12)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:54:42 --> Invalid body indentation level (expecting an indentation level of at least 12)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:54:43 --> Invalid body indentation level (expecting an indentation level of at least 12)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:55:36 --> syntax error, unexpected '<<' (T_SL)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:55:37 --> syntax error, unexpected '<<' (T_SL)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 14:55:37 --> syntax error, unexpected '<<' (T_SL)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 15:04:32 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(71): SSP::simple(Array, Array, ' (\r\n    SELECT\r...', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:09:57 --> App\Controllers\admin\Blog::__construct(): Failed opening required 'C:\xampp\htdocs\fcm4\app\ThirdParty/ssp2.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-25 15:10:03 --> App\Controllers\admin\Blog::__construct(): Failed opening required 'C:\xampp\htdocs\fcm4\app\ThirdParty/ssp2.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-25 15:10:43 --> App\Controllers\admin\Blog::__construct(): Failed opening required 'C:\xampp\htdocs\fcm4\app\ThirdParty/ssp.classes.php' (include_path='C:\xampp\php\PEAR')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-25 15:11:15 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(72): SSP::simple(Array, Array, ' (\r\n    SELECT ...', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:12:03 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(72): SSP::simple(Array, Array, ' (\r\n    SELECT ...', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:12:04 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(72): SSP::simple(Array, Array, ' (\r\n    SELECT ...', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:18:01 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(57): SSP::simple(Array, Array, 'fcm_blog', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:18:02 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(57): SSP::simple(Array, Array, 'fcm_blog', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:18:40 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(52): SSP::simple(Array, Array, 'fcm_blog', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:19:39 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(52): SSP::simple(Array, Array, 'fcm_blog', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:19:51 --> Cannot declare class SSP, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-25 15:19:52 --> Cannot declare class SSP, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-25 15:19:53 --> Cannot declare class SSP, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-25 15:20:01 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.customized.class.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(52): SSP::simple(Array, Array, 'fcm_blog', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:21:11 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(52): SSP::simple(Array, Array, 'fcm_blog', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:21:11 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(166): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 166, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.php(229): SSP::filter(Array, Array, Array, NULL)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(52): SSP::simple(Array, Array, 'fcm_blog', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:28:53 --> syntax error, unexpected 'c' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 15:35:06 --> Undefined variable: table
+#0 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-25 15:35:35 --> syntax error, unexpected 'c' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 15:45:58 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.test.php(159): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 159, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.test.php(216): SSP::filter(Array, Array, Array)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(63): SSP::simple(Array, Array, ' (\r\n    SELECT\r...', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 15:45:59 --> Undefined index: columns
+#0 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.test.php(159): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 159, Array)
+#1 C:\xampp\htdocs\fcm4\app\ThirdParty\ssp.test.php(216): SSP::filter(Array, Array, Array)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(63): SSP::simple(Array, Array, ' (\r\n    SELECT\r...', 'id_blog', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->list_data_ssp_blog()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-25 16:28:56 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:29:35 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:29:36 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:29:37 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:29:37 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:29:38 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:30:43 --> Class 'Irsyadulibad\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:30:44 --> Class 'Irsyadulibad\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:30:50 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:30:59 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:31:20 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:31:21 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:31:21 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:31:50 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:31:51 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:34:40 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:34:40 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:35:58 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:35:59 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:36:12 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:36:13 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 16:37:28 --> Class 'Irsyadulibad\DataTables\DataTables' not found
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2021-12-25 16:51:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 4
+CRITICAL - 2021-12-25 16:51:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 4
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(18): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2021-12-25 17:23:18 --> syntax error, unexpected '?', expecting end of file
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('admin/blog/inde...', Array, true)
+#2 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(30): view('admin/blog/inde...', Array)
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->index()
+#4 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2021-12-25 17:43:00 --> Unknown column 'id' in 'from clause'
+CRITICAL - 2021-12-25 17:43:00 --> Unknown column 'id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:43:48 --> Unknown column 'id' in 'from clause'
+CRITICAL - 2021-12-25 17:43:48 --> Unknown column 'id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:44:19 --> Unknown column 'id' in 'from clause'
+CRITICAL - 2021-12-25 17:44:19 --> Unknown column 'id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:46:01 --> Unknown column 'id' in 'from clause'
+CRITICAL - 2021-12-25 17:46:01 --> Unknown column 'id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(20): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:46:15 --> Unknown column 'id' in 'from clause'
+CRITICAL - 2021-12-25 17:46:15 --> Unknown column 'id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(20): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:46:25 --> Unknown column 'id' in 'from clause'
+CRITICAL - 2021-12-25 17:46:25 --> Unknown column 'id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:47:30 --> Unknown column 'id' in 'from clause'
+CRITICAL - 2021-12-25 17:47:30 --> Unknown column 'id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:48:10 --> Unknown column 'user_id' in 'from clause'
+CRITICAL - 2021-12-25 17:48:10 --> Unknown column 'user_id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:48:14 --> Unknown column 'id' in 'from clause'
+CRITICAL - 2021-12-25 17:48:14 --> Unknown column 'id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:48:28 --> Unknown column 'id' in 'from clause'
+CRITICAL - 2021-12-25 17:48:28 --> Unknown column 'id' in 'from clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(40): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#7 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2021-12-25 17:49:27 --> Column 'status' in field list is ambiguous
+CRITICAL - 2021-12-25 17:49:27 --> Column 'status' in field list is ambiguous
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:49:34 --> Column 'status' in field list is ambiguous
+CRITICAL - 2021-12-25 17:49:34 --> Column 'status' in field list is ambiguous
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:50:05 --> Column 'status' in field list is ambiguous
+CRITICAL - 2021-12-25 17:50:05 --> Column 'status' in field list is ambiguous
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:50:11 --> Column 'updated_at' in field list is ambiguous
+CRITICAL - 2021-12-25 17:50:11 --> Column 'updated_at' in field list is ambiguous
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2021-12-25 17:52:04 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('admin/blog/blog...')
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('admin/blog/blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2021-12-25 17:52:58 --> Column 'status' in field list is ambiguous
+CRITICAL - 2021-12-25 17:52:58 --> Column 'status' in field list is ambiguous
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:53:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`status`
+FROM `fcm_blog`
+JOIN `users` ON `fcm_blog`.`user_id`=`users`.`id`
+ ...' at line 1
+CRITICAL - 2021-12-25 17:53:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`status`
+FROM `fcm_blog`
+JOIN `users` ON `fcm_blog`.`user_id`=`users`.`id`
+ ...' at line 1
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:53:45 --> Column 'status' in field list is ambiguous
+CRITICAL - 2021-12-25 17:53:45 --> Column 'status' in field list is ambiguous
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:54:19 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS `a`' at line 1
+CRITICAL - 2021-12-25 17:54:19 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS `a`' at line 1
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SHOW COLUMNS FR...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SHOW COLUMNS FR...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SHOW COLUMNS FR...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(1400): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FR...')
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(99): CodeIgniter\Database\BaseConnection->getFieldNames('fcm_blog AS a')
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(26): Irsyadulibad\DataTables\TableProcessor->setListFields()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:54:38 --> Column 'status' in field list is ambiguous
+CRITICAL - 2021-12-25 17:54:38 --> Column 'status' in field list is ambiguous
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:54:48 --> Column 'status' in field list is ambiguous
+CRITICAL - 2021-12-25 17:54:48 --> Column 'status' in field list is ambiguous
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:54:53 --> Unknown column 'a.status' in 'field list'
+CRITICAL - 2021-12-25 17:54:53 --> Unknown column 'a.status' in 'field list'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:55:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as `a`' at line 1
+CRITICAL - 2021-12-25 17:55:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as `a`' at line 1
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SHOW COLUMNS FR...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SHOW COLUMNS FR...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SHOW COLUMNS FR...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(1400): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FR...')
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(99): CodeIgniter\Database\BaseConnection->getFieldNames('fcm_blog as a')
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(26): Irsyadulibad\DataTables\TableProcessor->setListFields()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:55:45 --> Unknown column 'a' in 'field list'
+CRITICAL - 2021-12-25 17:55:45 --> Unknown column 'a' in 'field list'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:55:50 --> Unknown column 'fcm_blog' in 'field list'
+CRITICAL - 2021-12-25 17:55:50 --> Unknown column 'fcm_blog' in 'field list'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `id_blog...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_blog...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_blog...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `id_blog...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(107): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(28): Irsyadulibad\DataTables\TableProcessor->results()
+#6 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#7 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#8 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2021-12-25 17:57:58 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 17:57:58 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 17:58:46 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 17:58:46 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 17:59:25 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 17:59:25 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 18:00:12 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 18:00:12 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 18:01:00 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 18:01:00 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 18:01:07 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 18:01:07 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 18:01:26 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 18:01:26 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 18:01:32 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 18:01:32 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 18:01:40 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 18:01:40 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 18:01:51 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 18:01:51 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2021-12-25 18:02:12 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+CRITICAL - 2021-12-25 18:02:12 --> Unknown column 'fcm_blog.fullname' in 'where clause'
+#0 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1527): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(35): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\DataTableMethods.php(101): Irsyadulibad\DataTables\TableProcessor->count()
+#6 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(42): Irsyadulibad\DataTables\DataTableMethods->filterRecords()
+#7 C:\xampp\htdocs\fcm4\vendor\irsyadulibad\codeigniter4-datatables\src\TableProcessor.php(27): Irsyadulibad\DataTables\TableProcessor->doQuery()
+#8 C:\xampp\htdocs\fcm4\app\Controllers\Admin\Blog.php(21): Irsyadulibad\DataTables\TableProcessor->make(true)
+#9 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\admin\Blog->blog_json()
+#10 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Blog))
+#11 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\fcm4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\fcm4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}

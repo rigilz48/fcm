@@ -1,0 +1,36 @@
+{
+  "name": "nachoaguirre/ci4phpmailer",
+  "description": "Overrides CodeIgniter 4 Email Class to send smtp with PHPMailer",
+  "keywords": [
+    "codeigniter",
+    "email",
+    "smtp",
+    "phpmailer"
+  ],
+  "homepage": "https://github.com/nachoaguirre/ci4phpmailer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ignacio Aguirre",
+      "email": "ignacio@independiente.cl",
+      "homepage": "https://github.com/nachoaguirre/",
+      "role": "Developer"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/codeigniter4/CodeIgniter4"
+    }
+  ],
+  "require": {
+	"php" : ">=7.2",  
+    "phpmailer/phpmailer": "^6.2"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Nachoaguirre\\Ci4phpmailer\\": "src"
+    }
+  }
+}
